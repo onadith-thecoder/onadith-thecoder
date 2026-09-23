@@ -38,10 +38,14 @@ Tools & Infrastructure
 <p> <img src="https://github-readme-stats.vercel.app/api?username=onadith-thecoder&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&icon_color=6366f1&border_color=30363d&hide_border=false&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadith-thecoder&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&border_color=30363d&hide_border=false&border_radius=10" height="175" alt="Top Languages"/> </p> <br/> <img src="https://streak-stats.demolab.com?user=onadith-thecoder&theme=transparent&background=0d1117&border=30363d&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=false&border_radius=10" width="600" alt="GitHub Streak"/> </div>
 <!-- ══════════════════ ACTIVITY GRAPH ══════════════════ --> <div align="center">
 🌐 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onadith-thecoder&theme=react-dark&hide_border=true)
-<!-- ══════════════════ TROPHIES ══════════════════ --> <div align="center">
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onadith-thecoder&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+<br><br>
+
 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=onadith-thecoder&theme=radical&no-bg=true&no-frame=true)
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=onadith-thecoder&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
 <!-- ══════════════════ FOOTER ══════════════════ --> <div align="center">
 
 "Building systems by day. Building businesses by night."
