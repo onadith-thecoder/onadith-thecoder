@@ -7,13 +7,13 @@
 ⚡ About Me
 
 🎓  B.Eng (Hons) Software Engineering
-      Canterbury Christ Church University, UK
+      (Canterbury Christ Church University, UK)
 
-🔬  Published Researcher — SIRS & SURS 2026
+🔬  Published Researcher (SIRS & SURS 2026)
 
-💼  Accounts Assistant @ Vonlan Constructions · Sanken Group
+💼  Accounts Assistant @ Vonlan Constructions (Pvt) Ltd · Sanken Group
 
-🌿  Founder — Leena Products (Ceylon Essential & Condiment Products)
+🌿  Founder — Leena Products (Ceylon Essential & Condiment Products manufacture and sell)
 
 🎯  Pivoting: Software Eng → Business Analyst → MBA/MBAn
 
