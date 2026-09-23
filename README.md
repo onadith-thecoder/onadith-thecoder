@@ -7,7 +7,7 @@
 ⚡ About Me
 
 🎓  B.Eng (Hons) Software Engineering
-      Canterbury Christ Church University × Saegis Campus, Sri Lanka
+      Canterbury Christ Church University, UK
 
 🔬  Published Researcher — SIRS & SURS 2026
 
