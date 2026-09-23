@@ -28,11 +28,11 @@
 
 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,html,css" alt="Languages & Frameworks"/> <br/>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,html,css,php,laravel" alt="Languages & Frameworks"/> <br/>
 
 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,figma,vscode,github,postgres" alt="Tools & Infrastructure"/> </div>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,figma,powerbi,vscode,github,postgres,gitbash,pycharm,laragon" alt="Tools & Infrastructure"/> </div>
 <!-- ══════════════════ GITHUB STATS ══════════════════ --> <div align="center">
 📊 GitHub Analytics
 <p> <img src="https://github-readme-stats.vercel.app/api?username=onadith-thecoder&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&icon_color=6366f1&border_color=30363d&hide_border=false&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onadith-thecoder&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&border_color=30363d&hide_border=false&border_radius=10" height="175" alt="Top Languages"/> </p> <br/> <img src="https://streak-stats.demolab.com?user=onadith-thecoder&theme=transparent&background=0d1117&border=30363d&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&hide_border=false&border_radius=10" width="600" alt="GitHub Streak"/> </div>
